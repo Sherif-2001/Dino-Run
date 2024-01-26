@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Idle
+    m_Hash: 1008081451
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: doux_sheet_0
+      m_Hash: 683619499
+      m_Sprite: {fileID: -716164953, guid: 1f25b8f9ea664944ebedfb9463f28ef7, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 1623623645, guid: 9bb3d9ae47bd8b346b70cb3b723811bf, type: 3}
+    - m_Name: doux_sheet_1
+      m_Hash: 532153405
+      m_Sprite: {fileID: -2031144134, guid: 1f25b8f9ea664944ebedfb9463f28ef7, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: -834254555, guid: 9bb3d9ae47bd8b346b70cb3b723811bf, type: 3}
+    - m_Name: doux_sheet_2
+      m_Hash: 112285063
+      m_Sprite: {fileID: 590929318, guid: 1f25b8f9ea664944ebedfb9463f28ef7, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: -438806881, guid: 9bb3d9ae47bd8b346b70cb3b723811bf, type: 3}
+    - m_Name: doux_sheet_3
+      m_Hash: 834037009
+      m_Sprite: {fileID: -102885221, guid: 1f25b8f9ea664944ebedfb9463f28ef7, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 627300725, guid: 9bb3d9ae47bd8b346b70cb3b723811bf, type: 3}
+    m_FromMain: 1
+    m_EntryOverrideCount: 4
+  - m_Name: Jump
+    m_Hash: 125937960
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: doux_sheet_4
+      m_Hash: 802353330
+      m_Sprite: {fileID: -1729879464, guid: 1f25b8f9ea664944ebedfb9463f28ef7, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 1483648276, guid: 9bb3d9ae47bd8b346b70cb3b723811bf, type: 3}
+    - m_Name: doux_sheet_5
+      m_Hash: 416661540
+      m_Sprite: {fileID: -1102048097, guid: 1f25b8f9ea664944ebedfb9463f28ef7, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 1271974238, guid: 9bb3d9ae47bd8b346b70cb3b723811bf, type: 3}
+    - m_Name: doux_sheet_6
+      m_Hash: 31232414
+      m_Sprite: {fileID: 35225765, guid: 1f25b8f9ea664944ebedfb9463f28ef7, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: -1967225554, guid: 9bb3d9ae47bd8b346b70cb3b723811bf, type: 3}
+    - m_Name: doux_sheet_7
+      m_Hash: 920363272
+      m_Sprite: {fileID: -792822929, guid: 1f25b8f9ea664944ebedfb9463f28ef7, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 1848822147, guid: 9bb3d9ae47bd8b346b70cb3b723811bf, type: 3}
+    - m_Name: doux_sheet_8
+      m_Hash: 644136089
+      m_Sprite: {fileID: -1241182578, guid: 1f25b8f9ea664944ebedfb9463f28ef7, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 1816647970, guid: 9bb3d9ae47bd8b346b70cb3b723811bf, type: 3}
+    m_FromMain: 1
+    m_EntryOverrideCount: 5
+  - m_Name: Hurt
+    m_Hash: 666872612
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: doux_sheet_13
+      m_Hash: 900037262
+      m_Sprite: {fileID: 1440149712, guid: 1f25b8f9ea664944ebedfb9463f28ef7, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 2089374832, guid: 9bb3d9ae47bd8b346b70cb3b723811bf, type: 3}
+    - m_Name: doux_sheet_14
+      m_Hash: 734129965
+      m_Sprite: {fileID: 1511194771, guid: 1f25b8f9ea664944ebedfb9463f28ef7, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: -1836783433, guid: 9bb3d9ae47bd8b346b70cb3b723811bf, type: 3}
+    - m_Name: doux_sheet_15
+      m_Hash: 482795451
+      m_Sprite: {fileID: -1048855077, guid: 1f25b8f9ea664944ebedfb9463f28ef7, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 1538337365, guid: 9bb3d9ae47bd8b346b70cb3b723811bf, type: 3}
+    - m_Name: doux_sheet_16
+      m_Hash: 97488385
+      m_Sprite: {fileID: 299646385, guid: 1f25b8f9ea664944ebedfb9463f28ef7, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: -78517491, guid: 9bb3d9ae47bd8b346b70cb3b723811bf, type: 3}
+    m_FromMain: 1
+    m_EntryOverrideCount: 4
+  - m_Name: Run
+    m_Hash: 675013152
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: doux_sheet_17
+      m_Hash: 852016791
+      m_Sprite: {fileID: -944563123, guid: 1f25b8f9ea664944ebedfb9463f28ef7, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 181773268, guid: 9bb3d9ae47bd8b346b70cb3b723811bf, type: 3}
+    - m_Name: doux_sheet_18
+      m_Hash: 578265862
+      m_Sprite: {fileID: -474984168, guid: 1f25b8f9ea664944ebedfb9463f28ef7, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 1964410190, guid: 9bb3d9ae47bd8b346b70cb3b723811bf, type: 3}
+    - m_Name: doux_sheet_19
+      m_Hash: 359699344
+      m_Sprite: {fileID: 371032663, guid: 1f25b8f9ea664944ebedfb9463f28ef7, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: -1074068410, guid: 9bb3d9ae47bd8b346b70cb3b723811bf, type: 3}
+    - m_Name: doux_sheet_20
+      m_Hash: 125925623
+      m_Sprite: {fileID: 1833257857, guid: 1f25b8f9ea664944ebedfb9463f28ef7, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: -693683343, guid: 9bb3d9ae47bd8b346b70cb3b723811bf, type: 3}
+    - m_Name: doux_sheet_21
+      m_Hash: 814106721
+      m_Sprite: {fileID: 209051059, guid: 1f25b8f9ea664944ebedfb9463f28ef7, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 374575247, guid: 9bb3d9ae47bd8b346b70cb3b723811bf, type: 3}
+    - m_Name: doux_sheet_22
+      m_Hash: 697244123
+      m_Sprite: {fileID: 1928883530, guid: 1f25b8f9ea664944ebedfb9463f28ef7, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: -287709622, guid: 9bb3d9ae47bd8b346b70cb3b723811bf, type: 3}
+    - m_Name: doux_sheet_23
+      m_Hash: 512239949
+      m_Sprite: {fileID: -942105465, guid: 1f25b8f9ea664944ebedfb9463f28ef7, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 1106768086, guid: 9bb3d9ae47bd8b346b70cb3b723811bf, type: 3}
+    m_FromMain: 1
+    m_EntryOverrideCount: 7
+  m_PrimaryLibraryGUID: c895e8ed83bc21f4389f2c09f3349691
+  m_ModificationHash: 638382068138251668
+  m_Version: 1
